@@ -1,4 +1,4 @@
 # meStudyingPython
 /my first attemps in python/
 
-first attempt in creating a bot for sending e-mails through G-mail, using only SMTPLIB and MIME libraries documentation.
+My first projects in python
